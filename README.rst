@@ -5,7 +5,7 @@ Open Links in New Tabs Extension
 This Chrome Extension modifies all webpage links to open in new tabs. It includes a toggle feature, accessible via a popup, allowing users to enable or disable this behavior at their convenience.
 
 
-========
+
 Features
 ========
 
