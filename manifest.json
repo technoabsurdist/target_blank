@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 5,
   "name": "Open Links in New Tabs",
   "version": "1.0",
   "description": "Make all links open in new tabs",
@@ -14,7 +14,13 @@
     }
   ],
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+	    "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "128": "images/icon128.png"
   }
 }
 
