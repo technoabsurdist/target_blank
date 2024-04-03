@@ -4,7 +4,6 @@ Open Links in New Tabs Extension
 
 This Chrome Extension modifies all webpage links to open in new tabs. It includes a toggle feature, accessible via a popup, allowing users to enable or disable this behavior at their convenience.
 
-========
 Features
 ========
 
@@ -12,7 +11,6 @@ Features
 - Provides a popup with an enable/disable toggle.
 - Saves the user's preference for future browsing sessions.
 
-============
 Installation
 ============
 
@@ -22,7 +20,6 @@ Installation
 4. Click "Load unpacked" and select the extension's directory.
 5. The extension should now be visible in your Chrome toolbar.
 
-=====
 Usage
 =====
 
@@ -30,7 +27,6 @@ Usage
 - Use the toggle switch to enable or disable the extension. When enabled, all links will open in new tabs.
 - Refresh any open tabs where the extension should be active for changes to take immediate effect.
 
-===========
 Development
 ===========
 
@@ -40,7 +36,6 @@ To modify or contribute to this extension, follow these steps:
 - Modify ``popup.html``, ``popup.js``, or ``content.js`` as needed.
 - Reload the extension through ``chrome://extensions/`` to apply changes.
 
-=======
 License
 =======
 
