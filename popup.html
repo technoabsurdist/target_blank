@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>target=_blank</title>
+    <style>
+        body {
+            width: 300px;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        .header {
+            display: flex;
+            align-items: center; 
+            justify-content: space-between; 
+        }
+        .switch {
+            cursor: pointer;
+        }
+        .switch span {
+            margin-left: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 style="margin: 0; font-size: 14px;">Open Links in New Tabs:</h1>
+        <label class="switch">
+            <input type="checkbox" id="toggleSwitch" checked>
+            <span>Enabled</span>
+        </label>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
+
