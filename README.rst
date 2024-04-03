@@ -13,6 +13,7 @@ Features
 - Provides a popup with an enable/disable toggle.
 - Saves the user's preference for future browsing sessions.
 
+============
 Installation
 ============
 
